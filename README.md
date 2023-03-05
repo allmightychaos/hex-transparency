@@ -3,6 +3,11 @@
 You can enter a hexadecimal color code and the choose
 the percentage of the transparency-value:
 
+## Showcase:
+
+<img src="/Images/HexaTrans-Preview-1.png" alt="HexaTrans-Preview-1">
+<img src="/Images/HexaTrans-Preview-2.png" alt="HexaTrans-Preview-2">
+
 ## Color Codes of the Transparency:
 
 Percentage - Color Code:
